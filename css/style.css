@@ -1,0 +1,22 @@
+#wrapper {
+    position:relative;
+}
+
+#video {
+    z-index: -999;
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 720px;
+    height: 560px;
+}
+
+canvas {
+    position: absolute;
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+}
